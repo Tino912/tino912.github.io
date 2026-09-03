@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我是站长！.md",
+                "file": "安装archniri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我是站长！"
+              "title": "安装archniri"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:组装",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,9 +188,12 @@
   },
   "active": "23c1ccc30e3d6f90",
   "lastOpenFiles": [
+    "().md",
+    "安装archniri.md",
+    "2026-09-01.md",
+    "我是站长！.md",
     "Templates/default.md",
     "Templates",
-    "Tempates/default.md",
-    "我是站长！.md"
+    "Tempates/default.md"
   ]
 }
