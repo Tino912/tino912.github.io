@@ -7,7 +7,7 @@ slug: get-arch-niri
 tags:
   - 日记
   - 安装
-draft: true
+draft: false
 ---
 这两天购置了一台笔记本电脑，型号为**hyperx omen12**,这是我第一次正式购买笔记本电脑，确实是很开心的。
 
