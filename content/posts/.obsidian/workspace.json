@@ -11,14 +11,10 @@
             "id": "b385a0bc7b61bbf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记--1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习笔记--1"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,19 +183,36 @@
   },
   "active": "b385a0bc7b61bbf0",
   "lastOpenFiles": [
-    "我是站长！.md",
+    "程序设计.md",
     "zen-browser存疑.md",
     "学习笔记--1.md",
+    "我是站长！.md",
     "北京1.md",
     "安装archniri.md",
+    "机器人队.md",
+    "周未清",
+    "周清",
+    "线性代数.md",
+    "数学分析.md",
+    "心理健康.md",
+    "习概.md",
+    "信通导论.md",
+    "新工科高阶英语.md",
+    "人工智能安全.md",
+    "三维CAD.md",
+    "国防教育.md",
+    "劳动教育.md",
+    "Python信号.md",
+    "互联网思维.md",
+    "blog",
+    "blog/学习笔记--1.md",
+    "blog/我是站长！.md",
+    "blog/zen-browser存疑.md",
+    "blog/北京1.md",
+    "blog/安装archniri.md",
     "未命名 2.md",
-    "未命名",
     "未命名.canvas",
     "().md",
-    "2026-09-03.md",
-    "2026-09-01.md",
-    "Templates/default.md",
-    "Templates",
-    "Tempates/default.md"
+    "Templates"
   ]
 }
