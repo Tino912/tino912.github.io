@@ -71,4 +71,4 @@ enableEmoji = true
     [[module.mounts]]
       source = "content"
       target = "content"
-      excludeFiles = ["posts/Templates/default.md"]
+      files = ["posts/Templates/default.md"]
